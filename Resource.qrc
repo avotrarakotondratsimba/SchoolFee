@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>Images/1976053_home_home page_homepage_homepages_icon.png</file>
+        <file>Images/EduFlex.png</file>
+        <file>Images/logo.avif</file>
+        <file>Images/ElectroStore.png</file>
+        <file>Images/equaqua.jpg</file>
+        <file>Images/search.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Images/header_logo.png</file>
+        <file>Images/home (2).png</file>
+        <file>Images/paiment(2).png</file>
+        <file>Images/paiment.png</file>
+        <file>Images/settings.png</file>
+        <file>Images/facture.png</file>
+        <file>Images/paid.png</file>
+        <file>Images/hide.png</file>
+        <file>Images/visible.png</file>
+        <file>Images/padlock.png</file>
+        <file>Images/padlock (1).png</file>
+        <file>Images/user.png</file>
+        <file>Images/blogger.png</file>
+        <file>Images/home (3).png</file>
+        <file>Images/fond_bleu.png</file>
+        <file>Images/pexels-photo-6847584.jpg</file>
+        <file>Images/illustr.jpg</file>
+        <file>Images/laptop.png</file>
+        <file>Images/illustratioon.jpg</file>
+        <file>Images/account.png</file>
+        <file>Images/computer.png</file>
+        <file>Images/design-software.png</file>
+        <file>Images/justified.png</file>
+        <file>Images/or.png</file>
+        <file>Images/plus.png</file>
+        <file>Images/remove.png</file>
+        <file>Images/accept.png</file>
+        <file>Images/graduate-hat.png</file>
+        <file>Images/learning.png</file>
+        <file>Images/school.png</file>
+        <file>Images/kind.png</file>
+        <file>Images/magnifying-glass.png</file>
+        <file>Images/arrow.png</file>
+        <file>Images/money.png</file>
+        <file>Images/setting.png</file>
+        <file>Images/check.png</file>
+        <file>Images/close.png</file>
+        <file>C:/Users/AVOTRA/Downloads/stats.png</file>
+        <file>C:/Users/AVOTRA/Downloads/graduating-student.png</file>
+        <file>Images/Eleve.png</file>
+        <file>C:/Users/AVOTRA/Downloads/trophy.png</file>
+        <file>C:/Users/AVOTRA/Downloads/number-one.png</file>
+        <file>C:/Users/AVOTRA/Downloads/analytics.png</file>
+        <file>C:/Users/AVOTRA/Downloads/statistics.png</file>
+        <file>C:/Users/AVOTRA/Downloads/pie-chart.png</file>
+        <file>C:/Users/AVOTRA/Downloads/paid (1).png</file>
+        <file>C:/Users/AVOTRA/Downloads/bankruptcy.png</file>
+        <file>Images/derouler.png</file>
+        <file>C:/Users/AVOTRA/Downloads/caret-down.png</file>
+        <file>C:/Users/AVOTRA/Downloads/money-bag.png</file>
+        <file>C:/Users/AVOTRA/Downloads/money-bag (1).png</file>
+        <file>C:/Users/AVOTRA/Downloads/delete.png</file>
+        <file>C:/Users/AVOTRA/Downloads/user (2).png</file>
+        <file>C:/Users/AVOTRA/Downloads/pie-chart (1).png</file>
+        <file>C:/Users/AVOTRA/Downloads/list.png</file>
+        <file>C:/Users/AVOTRA/Downloads/minus.png</file>
+        <file>C:/Users/AVOTRA/Downloads/remove (1).png</file>
+        <file>C:/Users/AVOTRA/Downloads/password-visible-9-48.png</file>
+        <file>C:/Users/AVOTRA/Downloads/hide (1).png</file>
+        <file>C:/Users/AVOTRA/Downloads/adjust.png</file>
+    </qresource>
+</RCC>
